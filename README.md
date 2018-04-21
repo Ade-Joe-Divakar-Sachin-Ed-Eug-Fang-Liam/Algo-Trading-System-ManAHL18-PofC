@@ -1,0 +1,1 @@
+# Algo-Trading-System-ManAHL18-PofC
