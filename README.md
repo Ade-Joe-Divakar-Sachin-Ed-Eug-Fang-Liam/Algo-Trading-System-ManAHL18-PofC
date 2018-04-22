@@ -14,3 +14,5 @@ A prototype algo trading platform developed for the Man AHL open source hackatho
 
 
 Next steps include integrating the seperate components together into an initial build to demonstrate proof of concept functionality. 
+
+[![Algo-Trading-System-ManAHL18-PofC](Examples/Development_Path.jpg )](https://github.com/Ade-Joe-Divakar-Sachin-Ed-Eug-Fang-Liam/Algo-Trading-System-ManAHL18-PofC)
